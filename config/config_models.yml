@@ -1,0 +1,9 @@
+
+
+ANN_model_conf:
+    label: '/home/iuliiasolomennikova/Desktop/RecoServiceTemplate_2023/notebooks/data/kion_train/offline_reco_df/ANN_label.sav'
+    distance: '/home/iuliiasolomennikova/Desktop/RecoServiceTemplate_2023/notebooks/data/kion_train/offline_reco_df//ANN_distance.sav'
+
+####
+#----------------#
+#8888#

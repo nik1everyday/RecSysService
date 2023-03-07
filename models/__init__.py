@@ -1,0 +1,2 @@
+def ann():
+    return None
